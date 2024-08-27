@@ -1,0 +1,89 @@
+ 
+     [
+      {
+        "id": 1,
+        "img": "https://i.postimg.cc/ZnNvH7pf/p1.png",
+        "price": 49.99,
+        "productName": "Elegant Necklace",
+        "details": "A stunning gold necklace with intricate design."
+      },
+      {
+        "id": 2,
+        "img": "https://i.postimg.cc/XNB5nJmw/p2.png",
+        "price": 39.99,
+        "productName": "Silver Bracelet",
+        "details": "A sleek silver bracelet perfect for any occasion."
+      },
+      {
+        "id": 3,
+        "img": "https://i.postimg.cc/SsBJn63c/p3.png",
+        "price": 29.99,
+        "productName": "Pearl Earrings",
+        "details": "Elegant pearl earrings that add a touch of class."
+      },
+      {
+        "id": 4,
+        "img": "https://i.postimg.cc/tJF7W1Gw/p4.png",
+        "price": 59.99,
+        "productName": "Diamond Ring",
+        "details": "A sparkling diamond ring for special moments."
+      },
+      {
+        "id": 5,
+        "img": "https://i.postimg.cc/CM8RW2n7/p5.png",
+        "price": 19.99,
+        "productName": "Charm Pendant",
+        "details": "A beautiful charm pendant with intricate details."
+      },
+      {
+        "id": 6,
+        "img": "https://i.postimg.cc/rFLDc9Sk/p6.png",
+        "price": 89.99,
+        "productName": "Luxury Watch",
+        "details": "A luxury watch with a leather strap and gold accents."
+      },
+      {
+        "id": 7,
+        "img": "https://i.postimg.cc/tCtYgV5V/p7.png",
+        "price": 25.99,
+        "productName": "Stud Earrings",
+        "details": "Simple yet elegant stud earrings for everyday wear."
+      },
+      {
+        "id": 8,
+        "img": "https://i.postimg.cc/P5XNvr3V/p8.png",
+        "price": 34.99,
+        "productName": "Gold Bangle",
+        "details": "A gold bangle with a classic design."
+      },
+      {
+        "id": 9,
+        "img": "https://i.postimg.cc/ZnNvH7pf/p1.png",
+        "price": 45.99,
+        "productName": "Beaded Necklace",
+        "details": "A colorful beaded necklace that makes a statement."
+      },
+      {
+        "id": 10,
+        "img": "https://i.postimg.cc/XNB5nJmw/p2.png",
+        "price": 55.99,
+        "productName": "Gemstone Ring",
+        "details": "A ring featuring a beautiful gemstone centerpiece."
+      },
+      {
+        "id": 11,
+        "img": "https://i.postimg.cc/CM8RW2n7/p5.png",
+        "price": 79.99,
+        "productName": "Men's Cufflinks",
+        "details": "Sophisticated cufflinks for the modern gentleman."
+      },
+      {
+        "id": 12,
+        "img": "https://i.postimg.cc/tCtYgV5V/p7.png",
+        "price": 99.99,
+        "productName": "Luxury Earrings",
+        "details": "Luxury earrings with diamonds and gold."
+      }
+    ]
+ 
+  
